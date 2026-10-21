@@ -6,7 +6,7 @@
 
 I design and ship AI-native products for iPhone, Mac, Android and the web from Valencia, Spain, through [Fabrique Futur](https://www.fafutur.com), the studio I co-founded. Agents write most of the code. I decide what gets built and what ships.
 
-[X](https://x.com/ceozaitsev) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
+[X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
 > **3** you can use today · **2** open source · **8** in the workshop
 
