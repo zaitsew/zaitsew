@@ -61,6 +61,7 @@ Compares Spanish bank offers by goal, with AI search, open data and an MCP serve
 - Goal leaderboards, offer pages and side-by-side compare
 - Open dataset: one dated, sourced YAML file per offer
 - JSON API, OpenAPI, llms.txt and a remote MCP server
+- Bank app ranking from store ratings, freshness and payment features
 
 </details>
 
