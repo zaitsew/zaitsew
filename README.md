@@ -8,7 +8,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 [X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
-> **3** you can use today · **3** open source · **8** in the workshop
+> **3** you can use today · **4** open source · **8** in the workshop
 
 ## Use them today
 
@@ -86,6 +86,23 @@ Installer and tooling for a home VLESS + Reality VPN on a Raspberry Pi, with bac
 - App alert history, push, and an offline demo mode
 - casavpn-pair prints a QR code that pairs the app
 - Offline tests and a personal-data scanner in check.sh
+
+</details>
+
+### [SAWk](https://github.com/zaitsew/sawk)
+
+A personal feed of offline events in your city and the cities you travel to, ranked by your AI agents.
+
+<sub>web, MCP · building</sub>
+
+<details><summary>What it does today</summary>
+
+- MCP server: agents collect, rank and explain events for you
+- Daily model-free ingest from Meetup, Eventbrite, Songkick and others
+- Reads Loco trips, so travel cities get their own feed
+- Web feed PWA: save, going, hide, and rate after
+- Nightly Claude Code or Codex run from a launchd job
+- Profile of likes, avoids, price cap and languages
 
 </details>
 
