@@ -8,7 +8,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 [X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
-> **3** you can use today · **4** open source · **8** in the workshop
+> **3** you can use today · **5** open source · **8** in the workshop
 
 ## Use them today
 
@@ -45,6 +45,7 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - Checks whether newest TestFlight and Play builds reached testers
 - Reports whether scheduled routines ran, from teyla.toml
 - Reports reply length and filler phrases per project
+- Claude Code plugin ready for Claude and OpenAI directories, no-CLI fallback
 
 </details>
 
@@ -62,6 +63,8 @@ Compares Spanish bank offers by goal, with AI search, open data and an MCP serve
 - Open dataset: one dated, sourced YAML file per offer
 - JSON API, OpenAPI, llms.txt and a remote MCP server
 - Bank app ranking from store ratings, freshness and payment features
+- Offer cards render inside ChatGPT and Claude (MCP App widget)
+- Privacy, terms, support and connect pages
 
 </details>
 
@@ -86,6 +89,18 @@ Installer and tooling for a home VLESS + Reality VPN on a Raspberry Pi, with bac
 - App alert history, push, and an offline demo mode
 - casavpn-pair prints a QR code that pairs the app
 - Offline tests and a personal-data scanner in check.sh
+
+</details>
+
+### [Rumbo](https://github.com/zaitsew/rumbo)
+
+Plans trips from scratch and gives a personal travel feed, for people and AI agents over MCP.
+
+<sub>web · building</sub>
+
+<details><summary>What it does today</summary>
+
+- Shared trip and feed schema in zod, with a first test
 
 </details>
 
