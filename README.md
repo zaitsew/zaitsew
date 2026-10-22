@@ -63,7 +63,10 @@ Installer and tooling for a home VLESS + Reality VPN on a Raspberry Pi, with bac
 - casavpn-healthcheck verifies every layer on the host
 - Cloudflare Worker monitor and alert relay with APNs push
 - casavpn-alerts: certificate, client quota, Xray, backup, disk and reboot alerts
-- iPhone app: server status, clients on/off, alert history, push
+- iPhone app signs in like the panel and keeps only its own token
+- App manages inbounds (Reality), clients, Xray restart and logs
+- App shares client links and subscriptions as text or QR
+- App alert history, push, and an offline demo mode
 - casavpn-pair prints a QR code that pairs the app
 - Offline tests and a personal-data scanner in check.sh
 
