@@ -50,9 +50,9 @@ Operating layer for one person running many AI-built products on one Mac: questi
 
 ### [CasaVPN](https://github.com/zaitsew/casavpn)
 
-Installer and tooling for a home VLESS + Reality VPN on a Raspberry Pi, with backups and monitoring.
+Installer and tooling for a home VLESS + Reality VPN on a Raspberry Pi, with backups, monitoring and an iPhone app.
 
-<sub>Linux (Raspberry Pi) · building</sub>
+<sub>Linux (Raspberry Pi), iOS · building</sub>
 
 <details><summary>What it does today</summary>
 
@@ -61,7 +61,10 @@ Installer and tooling for a home VLESS + Reality VPN on a Raspberry Pi, with bac
 - Nightly age-encrypted backup and a restore drill script
 - casavpn-upgrade backs up, pins 3x-ui, and rolls back
 - casavpn-healthcheck verifies every layer on the host
-- Cloudflare Worker monitor sends ntfy alerts
+- Cloudflare Worker monitor and alert relay with APNs push
+- casavpn-alerts: certificate, client quota, Xray, backup, disk and reboot alerts
+- iPhone app: server status, clients on/off, alert history, push
+- casavpn-pair prints a QR code that pairs the app
 - Offline tests and a personal-data scanner in check.sh
 
 </details>
