@@ -8,7 +8,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 [X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
-> **3** you can use today · **2** open source · **8** in the workshop
+> **3** you can use today · **3** open source · **8** in the workshop
 
 ## Use them today
 
@@ -45,6 +45,22 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - Checks whether newest TestFlight and Play builds reached testers
 - Reports whether scheduled routines ran, from teyla.toml
 - Reports reply length and filler phrases per project
+
+</details>
+
+### [BankJar](https://github.com/zaitsew/bankjar)
+
+Compares Spanish bank offers by goal, with AI search, open data and an MCP server.
+
+<sub>web · building</sub>
+
+<details><summary>What it does today</summary>
+
+- Plain-words search returns a ranked offer comparison table
+- One scale: first-year net value and value per commitment month
+- Goal leaderboards, offer pages and side-by-side compare
+- Open dataset: one dated, sourced YAML file per offer
+- JSON API, OpenAPI, llms.txt and a remote MCP server
 
 </details>
 
