@@ -8,7 +8,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 [X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
-> **3** you can use today · **6** open source · **8** in the workshop
+> **3** you can use today · **7** open source · **8** in the workshop
 
 ## Use them today
 
@@ -101,6 +101,24 @@ Installer and tooling for a home VLESS + Reality VPN on a Raspberry Pi, with bac
 - App alert history, push, and an offline demo mode
 - casavpn-pair prints a QR code that pairs the app
 - Offline tests and a personal-data scanner in check.sh
+
+</details>
+
+### [Finance K](https://github.com/zaitsew/finance-k)
+
+Tracks your accounts and month-end balances across banks, crypto and cash, locally on your Mac.
+
+<sub>web · building</sub>
+
+<details><summary>What it does today</summary>
+
+- Account registry with institution, purpose, fees and status
+- Close-the-month screen with last balances prefilled, cash per currency
+- Net worth in EUR with change split into flows, market, FX
+- ECB, Bank of Russia and CoinGecko rates, cached locally
+- Dormant, new and closed accounts listed each month
+- Idle bank cash links to BankJar savings offers
+- JSON export and import; data never leaves the Mac
 
 </details>
 
