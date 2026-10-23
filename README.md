@@ -8,7 +8,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 [X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
-> **3** you can use today · **5** open source · **8** in the workshop
+> **3** you can use today · **6** open source · **8** in the workshop
 
 ## Use them today
 
@@ -46,6 +46,18 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - Reports whether scheduled routines ran, from teyla.toml
 - Reports reply length and filler phrases per project
 - Claude Code plugin ready for Claude and OpenAI directories, no-CLI fallback
+
+</details>
+
+### [Baika](https://github.com/zaitsew/baika)
+
+An iPhone storyteller: a story in any style, narrated with an expressive voice, then talked over live.
+
+<sub>iOS · building</sub>
+
+<details><summary>What it does today</summary>
+
+- Repo scaffold only; sprint 1 builds Talk and Perform
 
 </details>
 
