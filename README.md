@@ -57,7 +57,11 @@ An iPhone storyteller: a story in any style, narrated with an expressive voice, 
 
 <details><summary>What it does today</summary>
 
-- Repo scaffold only; sprint 1 builds Talk and Perform
+- Perform: a story on any topic in a chosen author's style
+- Narration with expressive ElevenLabs voices, OpenAI backup voice
+- Eight style presets plus your own style; ru, en, es
+- Talk: live voice conversation with mute, barge-in and icon controls
+- Library of stories, replayed offline, shared as text or audio
 
 </details>
 
