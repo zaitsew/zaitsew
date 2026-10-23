@@ -112,7 +112,14 @@ Plans trips from scratch and gives a personal travel feed, for people and AI age
 
 <details><summary>What it does today</summary>
 
-- Shared trip and feed schema in zod, with a first test
+- Plan a trip from one sentence in English, Spanish or Russian
+- Destination shortlist priced with live Kiwi fares
+- Ranked travel feed with reasons and like/dislike feedback
+- Price watches on routes, stays and activities
+- MCP server with 13 tools for Claude, Codex and ChatGPT
+- Daily scheduled agent runs that post sourced offers
+- Deep links to Google Flights, Booking, Airbnb and 18 airlines
+- Loco history import and export of a chosen plan to Loco
 
 </details>
 
