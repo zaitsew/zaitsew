@@ -37,7 +37,9 @@ Operating layer for one person running many AI-built products on one Mac: questi
 
 <details><summary>What it does today</summary>
 
-- Lists agent questions still waiting on you, with links back
+- Lists agent questions waiting on you, grouped by product
+- Product registry maps repos to products; park and wake
+- Text notes linked to a product: teyla note, teyla notes
 - Keeps long prompts in per-product intent files outside repos
 - Syncs one policy file into Claude Code, Codex, Grok, Hermes, Cursor
 - Reports agent cost by subagent type and model
