@@ -37,6 +37,10 @@ Operating layer for one person running many AI-built products on one Mac: questi
 
 <details><summary>What it does today</summary>
 
+- teyla start: diagnoses 30 days of agent spend, offers seven undoable fixes
+- Agent install: paste the repo URL into Claude Code or Codex
+- teyla web: local dashboard for diagnosis, today, products, notes, spend
+- Mac app: first-run diagnosis, product pages, ⌥Space quick note
 - Lists agent questions waiting on you, grouped by product
 - Product registry maps repos to products; park and wake
 - Text notes linked to a product: teyla note, teyla notes
