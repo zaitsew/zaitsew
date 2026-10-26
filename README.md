@@ -33,7 +33,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 Operating layer for one person running many AI-built products on one Mac: questions, policy, cost, builds.
 
-<sub>macOS · live</sub>
+<sub>macOS, iOS · live</sub>
 
 <details><summary>What it does today</summary>
 
@@ -42,6 +42,8 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - teyla web: local dashboard for diagnosis, today, products, notes, spend
 - Mac app: first-run diagnosis, product pages, ⌥Space quick note
 - Lists agent questions waiting on you, grouped by product
+- Portfolio: health per product with reasons, status per platform
+- iPhone and Mac App Store companions via a signed iCloud folder
 - Product registry maps repos to products; park and wake
 - Text notes linked to a product: teyla note, teyla notes
 - Keeps long prompts in per-product intent files outside repos
