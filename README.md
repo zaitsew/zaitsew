@@ -177,7 +177,7 @@ In TestFlight or still being built. Want early access? Message me on [X](https:/
 | | | On | What it is |
 |---|---|---|---|
 |  | **Afterglow** | iOS | Long-exposure camera for iPhone with Silk, Trails and Freeze effects. |
-| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/finca.png" width="32" height="32" alt="Finca icon"> | **Finca** | iOS | A barista for your own coffee: tracks bean bags, freshness, brews and taste. |
+| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/finca.png" width="32" height="32" alt="Finca icon"> | **Finca** | iOS, macOS | A barista for your own coffee: tracks bean bags, freshness, brews and taste. |
 | <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/iron-u.png" width="32" height="32" alt="Iron U icon"> | **Iron U** | iOS, macOS, Android, web, Garmin | Closed-loop Ironman 70.3 coach: writes the plan, pushes it to the watch, reads results, adapts. |
 | <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/lumi.png" width="32" height="32" alt="Lumi icon"> | **Lumi** | iOS, macOS | AI shot director for iPhone: plans the outing, checks each take, cuts the film from footage. |
 | <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/orbita.png" width="32" height="32" alt="Orbita icon"> | **Orbita** | iOS, macOS | Your network as four rings: who is going cold, birthdays, promises, and what you owe each person. |
