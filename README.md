@@ -8,7 +8,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 [X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
-> **3** you can use today · **7** open source · **8** in the workshop
+> **3** you can use today · **7** open source · **9** in the workshop
 
 ## Use them today
 
@@ -183,6 +183,7 @@ In TestFlight or still being built. Want early access? Message me on [X](https:/
 | <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/lumi.png" width="32" height="32" alt="Lumi icon"> | **Lumi** | iOS, macOS | AI shot director for iPhone: plans the outing, checks each take, cuts the film from footage. |
 | <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/orbita.png" width="32" height="32" alt="Orbita icon"> | **Orbita** | iOS, macOS | Your network as four rings: who is going cold, birthdays, promises, and what you owe each person. |
 | <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/petit-chef.png" width="32" height="32" alt="Petit Chef icon"> | **Petit Chef** | iOS | Runs a recipe like a workout: an overview, then one timed step per screen with voice cues. |
+|  | **Aufwind** | iOS | An iPhone home for a Garmin watch, in place of the Garmin Connect and Connect IQ apps. |
 |  | **Beyond Intelligence** | web | Weekly, monthly and yearly brief and dashboard on AI and startups. |
 |  | **Elecarm** | web | Compare European electric cars and A2/A motorcycles, with transparent rankings and sourced Spanish offer snapshots. |
 
