@@ -104,6 +104,7 @@ Installer and tooling for a home VLESS + Reality VPN on a Raspberry Pi, with bac
 - casavpn-ddns reconciles the Cloudflare DNS record every minute
 - Nightly age-encrypted backup and a restore drill script
 - casavpn-upgrade backs up, pins 3x-ui, and rolls back
+- casavpn-os-upgrade: monthly full-upgrade, reboot window, post-boot check
 - casavpn-healthcheck verifies every layer on the host
 - Cloudflare Worker monitor and alert relay with APNs push
 - casavpn-alerts: certificate, client quota, Xray, backup, disk and reboot alerts
