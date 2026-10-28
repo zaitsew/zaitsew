@@ -54,6 +54,7 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - Reports whether scheduled routines ran, from teyla.toml
 - Reports reply length and filler phrases per project
 - Claude Code plugin ready for Claude and OpenAI directories, no-CLI fallback
+- teyla mcp: local MCP server for asks, answers, intent, load
 
 </details>
 
