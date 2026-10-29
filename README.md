@@ -190,6 +190,8 @@ AI-native focus app that counts procrastination vs work on iPhone and Mac, towar
 - Screen Time counting on iPhone with widget and Live Activity
 - Forest-style focus sessions that shield distracting apps
 - Per-device totals merged through iCloud
+- Siri and Shortcuts: today's focus, daily limit, start and stop a block
+- Read-only local MCP server for Claude Code and Codex
 
 </details>
 
