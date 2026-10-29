@@ -150,6 +150,8 @@ Plans trips from scratch and gives a personal travel feed, for people and AI age
 - Ranked travel feed with reasons and like/dislike feedback
 - Price watches on routes, stays and activities
 - MCP server with 13 tools for Claude, Codex and ChatGPT
+- Claude Code plugin: skill and MCP connection in one install
+- Owner-only OAuth sign-in for connectors that cannot send a key
 - Daily scheduled agent runs that post sourced offers
 - Deep links to Google Flights, Booking, Airbnb and 18 airlines
 - Loco history import and export of a chosen plan to Loco
