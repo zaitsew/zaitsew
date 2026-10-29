@@ -133,6 +133,7 @@ Tracks your accounts and month-end balances across banks, crypto and cash, local
 - Dormant, new and closed accounts listed each month
 - Idle bank cash links to BankJar savings offers
 - JSON export and import; data never leaves the Mac
+- Local read-only MCP server and Claude plugin; Codex install
 
 </details>
 
