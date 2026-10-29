@@ -8,7 +8,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 [X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
-> **3** you can use today · **7** open source · **9** in the workshop
+> **3** you can use today · **8** open source · **9** in the workshop
 
 ## Use them today
 
@@ -169,6 +169,24 @@ A personal feed of offline events in your city and the cities you travel to, ran
 - Web feed PWA: save, going, hide, and rate after
 - Nightly Claude Code or Codex run from a launchd job
 - Profile of likes, avoids, price cap and languages
+
+</details>
+
+### [Vago](https://github.com/zaitsew/vago)
+
+AI-native focus app that counts procrastination vs work on iPhone and Mac, toward 30 minutes a day.
+
+<sub>iOS, macOS · building</sub>
+
+<details><summary>What it does today</summary>
+
+- Live menu-bar timer with mood emoji and green-yellow-red tint
+- Adaptive daily limit that walks down to 30 minutes
+- On-device AI judges window titles and URLs against your goals
+- iPhone "Work or scroll?" shield before ambiguous apps open
+- Screen Time counting on iPhone with widget and Live Activity
+- Forest-style focus sessions that shield distracting apps
+- Per-device totals merged through iCloud
 
 </details>
 
