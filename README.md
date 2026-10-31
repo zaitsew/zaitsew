@@ -38,6 +38,8 @@ Operating layer for one person running many AI-built products on one Mac: questi
 <details><summary>What it does today</summary>
 
 - teyla start: diagnoses 30 days of agent spend, offers seven undoable fixes
+- Ten packs to pick at setup; only ticked ones turn on
+- Doctor names the pack for a problem: load, disk, cost
 - Agent install: paste the repo URL into Claude Code or Codex
 - teyla web: local dashboard for diagnosis, today, products, notes, spend
 - Mac app: first-run diagnosis, product pages, ⌥Space quick note
