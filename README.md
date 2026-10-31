@@ -8,7 +8,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 [X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
-> **3** you can use today · **8** open source · **9** in the workshop
+> **3** you can use today · **9** open source · **9** in the workshop
 
 ## Use them today
 
@@ -172,6 +172,24 @@ A personal feed of offline events in your city and the cities you travel to, ran
 - Web feed PWA: save, going, hide, and rate after
 - Nightly Claude Code or Codex run from a launchd job
 - Profile of likes, avoids, price cap and languages
+
+</details>
+
+### [Speedyt](https://github.com/zaitsew/speedyt)
+
+Ad-free, open-source internet speed test for Android TV and Google TV, driven by the remote.
+
+<sub>Android TV · building</sub>
+
+<details><summary>What it does today</summary>
+
+- Download, upload, ping and jitter against Cloudflare's network
+- Latency under load with a bufferbloat grade A to D
+- What the line handles: 4K and 1080p streams, HD calls, gaming
+- Ethernet or Wi-Fi band, signal and link speed of the TV
+- Tips when the TV is the bottleneck, e.g. 100 Mbps Ethernet
+- Last 50 results kept on the TV
+- English, Spanish and Russian; no ads, account or telemetry
 
 </details>
 
