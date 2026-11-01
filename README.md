@@ -8,7 +8,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 [X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
-> **3** you can use today · **9** open source · **9** in the workshop
+> **3** you can use today · **11** open source · **9** in the workshop
 
 ## Use them today
 
@@ -138,6 +138,23 @@ Installer and tooling for a home VLESS + Reality VPN on a Raspberry Pi, with bac
 
 </details>
 
+### [Dremo](https://github.com/zaitsew/dremo)
+
+Calm ambient screens and clocks for Google TV and Android TV, with no ads or account.
+
+<sub>Android TV · building</sub>
+
+<details><summary>What it does today</summary>
+
+- Four clock faces: digital, flip, analog and word clock
+- Six animated scenes, from rain and fireplace to aurora and lava lamp
+- Optional city weather on the clocks, from Open-Meteo, no location permission
+- Night dimming on a schedule, and pixel shift
+- Screensaver service for Android TV versions that offer a picker
+- English, Spanish and Russian; no ads, account or telemetry
+
+</details>
+
 ### [Finance K](https://github.com/zaitsew/finance-k)
 
 Tracks your accounts and month-end balances across banks, crypto and cash, locally on your Mac.
@@ -154,6 +171,22 @@ Tracks your accounts and month-end balances across banks, crypto and cash, local
 - Idle bank cash links to BankJar savings offers
 - JSON export and import; data never leaves the Mac
 - Local read-only MCP server and Claude plugin; Codex install
+
+</details>
+
+### [Qupa](https://github.com/zaitsew/qupa)
+
+Party quiz for Google TV where phones are the buzzers, with no app install or account.
+
+<sub>Android TV · building</sub>
+
+<details><summary>What it does today</summary>
+
+- Phones join by QR code and play in the browser
+- The TV serves the game on the home network, protected by a room code
+- Two to four teams can play on the remote alone
+- 5,272 English questions from Open Trivia DB
+- Interface in English, Spanish and Russian; no ads or telemetry
 
 </details>
 
