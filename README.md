@@ -8,7 +8,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 [X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
-> **3** you can use today · **11** open source · **9** in the workshop
+> **3** you can use today · **12** open source · **9** in the workshop
 
 ## Use them today
 
@@ -156,6 +156,23 @@ Calm ambient screens and clocks for Google TV and Android TV, with no ads or acc
 - Night dimming on a schedule, and pixel shift
 - Screensaver service for Android TV versions that offer a picker
 - English, Spanish and Russian; no ads, account or telemetry
+
+</details>
+
+### [Filmare](https://github.com/zaitsew/filmare)
+
+Turns Claude Code and Codex sessions into short videos, refusing any clip where private data remains.
+
+<sub>macOS · building</sub>
+
+<details><summary>What it does today</summary>
+
+- Renders Claude Code and Codex logs as vertical, landscape or square clips
+- Masks secrets, names and private files before anything is rendered
+- Refuses export when text, layout or OCR of the video finds private data
+- Burns a session-replay label with the date into every clip
+- Picks beats and captions by rule; manual cuts also work
+- Writes a contact sheet for review; uses no AI or API credits
 
 </details>
 
