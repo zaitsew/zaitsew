@@ -43,6 +43,10 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - Agent install: paste the repo URL into Claude Code or Codex
 - teyla web: local dashboard for diagnosis, today, products, notes, spend
 - Mac app: first-run diagnosis, product pages, ⌥Space quick note
+- Home on Mac and iPhone: core products and their progress
+- Decisions: Pay, Decide, Do, with undoable closes on Mac and iPhone
+- Mac Tools page and ⌘K run core features
+- teyla attention: what needs you across machine, products and routines
 - Lists agent questions waiting on you, grouped by product
 - Portfolio: health per product with reasons, status per platform
 - iPhone and Mac App Store companions via a signed iCloud folder
