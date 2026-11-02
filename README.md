@@ -49,6 +49,8 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - teyla attention: what needs you across machine, products and routines
 - Lists agent questions waiting on you, grouped by product
 - Portfolio: health per product with reasons, status per platform
+- Home scoreboard: products ranked by users and commits, week, month, year
+- Per-product monetization switch, off by default, with MRR and paying users
 - iPhone and Mac App Store companions via a signed iCloud folder
 - Product registry maps repos to products; park and wake
 - Text notes linked to a product: teyla note, teyla notes
