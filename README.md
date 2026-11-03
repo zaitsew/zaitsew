@@ -41,6 +41,7 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - Ten packs to pick at setup; only ticked ones turn on
 - Doctor names the pack for a problem: load, disk, cost
 - Agent install: paste the repo URL into Claude Code or Codex
+- Public site at teyla.dev: landing, privacy and support pages
 - teyla web: local dashboard for diagnosis, today, products, notes, spend
 - Mac app: first-run diagnosis, product pages, ⌥Space quick note
 - Home on Mac and iPhone: core products and their progress
