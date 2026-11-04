@@ -51,6 +51,8 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - Money: cash per month kept apart from API list price
 - Playbook: guidelines, model ladder, golden quotes, chores to hand off
 - teyla growth: daily drafts per network from real work, approval first
+- teyla startup: stage ladder and next missing fact per product
+- YC sheet: 15 boxes with evidence, answers stay on the Mac
 - Editor pass and story miner hold back posts with no proof
 - Daily vertical video from a lesson or a real session
 - ⌘K runs core features
