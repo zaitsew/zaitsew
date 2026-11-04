@@ -46,7 +46,14 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - Mac app: first-run diagnosis, product pages, ⌥Space quick note
 - Home on Mac and iPhone: core products and their progress
 - Decisions: Pay, Decide, Do, with undoable closes on Mac and iPhone
-- Mac Tools page and ⌘K run core features
+- Mac admin: Growth, Money, Operations, Playbook, Settings, per-product pages
+- Operations: machine health, failures, schedules, harnesses, AGENTS.md sync
+- Money: cash per month kept apart from API list price
+- Playbook: guidelines, model ladder, golden quotes, chores to hand off
+- teyla growth: daily drafts per network from real work, approval first
+- Editor pass and story miner hold back posts with no proof
+- Daily vertical video from a lesson or a real session
+- ⌘K runs core features
 - teyla attention: what needs you across machine, products and routines
 - Lists agent questions waiting on you, grouped by product
 - Portfolio: health per product with reasons, status per platform
