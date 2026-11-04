@@ -293,7 +293,7 @@ In TestFlight or still being built. Want early access? Message me on [X](https:/
 | <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/petit-chef.png" width="32" height="32" alt="Petit Chef icon"> | **Petit Chef** | iOS | Runs a recipe like a workout: an overview, then one timed step per screen with voice cues. |
 |  | **Awind** | iOS | An iPhone home for a Garmin watch, in place of the Garmin Connect and Connect IQ apps. |
 |  | **Beyond Intelligence** | web | Weekly, monthly and yearly brief and dashboard on AI and startups. |
-|  | **Value-money** | web | Value-for-money boards with sourced prices, a published method and honest verdicts, starting with AI voiceover tools. |
+|  | **Inadviser** | web | Value-for-money boards with sourced prices, a published method and honest verdicts, starting with AI voiceover tools. |
 
 ## How I build
 
