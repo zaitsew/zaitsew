@@ -73,6 +73,8 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - Reports reply length and filler phrases per project
 - Claude Code plugin ready for Claude and OpenAI directories, no-CLI fallback
 - teyla mcp: local MCP server for asks, answers, intent, load
+- Test-build feedback on iOS, Mac, web, Android reaches one inbox
+- teyla productize fails shared products without test-build feedback
 
 </details>
 
