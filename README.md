@@ -68,6 +68,7 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - Syncs one policy file into Claude Code, Codex, Grok, Hermes, Cursor
 - Reports agent cost by subagent type and model
 - Machine guard refuses builds and simulators while overloaded
+- teyla storage apps: quits listed idle apps when memory is tight
 - Checks whether newest TestFlight and Play builds reached testers
 - Reports whether scheduled routines ran, from teyla.toml
 - Reports reply length and filler phrases per project
