@@ -270,21 +270,23 @@ A personal feed of offline events in your city and the cities you travel to, ran
 
 ### [Vago](https://github.com/zaitsew/vago)
 
-AI-native focus app that counts procrastination vs work on iPhone and Mac, toward 30 minutes a day.
+AI-native focus app: one number a day, the productive share of your screen time, across iPhone and Mac.
 
 <sub>iOS, macOS · building</sub>
 
 <details><summary>What it does today</summary>
 
-- Live menu-bar timer with mood emoji and green-yellow-red tint
+- Productive share as the main metric: 100% minus procrastination
+- Menu-bar share with mood emoji and green-yellow-red tint
+- Hour-by-hour day strip with Mac and iPhone lanes
+- Mac Day window: top work, top waste and Vago's calls
+- On-device AI decides work or waste; one tap corrects it
+- Learns rules from its own confident calls, holds itself when overruled
+- iPhone widgets read the day across devices from iCloud
 - Adaptive daily limit that walks down to 30 minutes
-- On-device AI judges window titles and URLs against your goals
-- iPhone "Work or scroll?" shield before ambiguous apps open
-- Screen Time counting on iPhone with widget and Live Activity
+- Screen Time counting and "Work or scroll?" shields on iPhone
 - Forest-style focus sessions that shield distracting apps
-- Per-device totals merged through iCloud
-- Siri and Shortcuts: today's focus, daily limit, start and stop a block
-- Read-only local MCP server for Claude Code and Codex
+- Siri and Shortcuts, plus a read-only local MCP server
 - Mac reminder to do a desk exercise after 90 minutes non-stop
 
 </details>
