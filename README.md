@@ -282,7 +282,7 @@ AI-native focus app: one number a day, the productive share of your screen time,
 - Mac Day window: top work, top waste and Vago's calls
 - On-device AI decides work or waste; one tap corrects it
 - Learns rules from its own confident calls, holds itself when overruled
-- iPhone widgets read the day across devices from iCloud
+- iPhone and Mac desktop widgets show the day across devices
 - Adaptive daily limit that walks down to 30 minutes
 - Screen Time counting and "Work or scroll?" shields on iPhone
 - Forest-style focus sessions that shield distracting apps
