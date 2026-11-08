@@ -52,7 +52,7 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - Playbook: guidelines, model ladder, golden quotes, chores to hand off
 - teyla growth: daily drafts per network from real work, approval first
 - teyla gtm: today's queue, sends and outcomes against weekly goals
-- Mac admin opens on Today; a Today card on iPhone
+- Today: goals as circles filled by real outcomes, next step
 - Publishes approved posts to LinkedIn, Threads, Instagram, YouTube via APIs
 - Engage list: 20 posts a day worth a reply, with angles
 - teyla startup: stage ladder and next missing fact per product
