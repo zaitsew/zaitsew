@@ -80,6 +80,10 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - teyla mcp: local MCP server for asks, answers, intent, load
 - Test-build feedback on iOS, Mac, web, Android reaches one inbox
 - teyla productize fails shared products without test-build feedback
+- teyla taste add: likes and dislikes as evidence with screenshots, styles, copy
+- Only the owner activates a taste entry; agents read TASTE.md
+- Screen registry: one file per screen, layout contract per size class
+- teyla ux atlas: every screen from code, captured against expected, feature map
 
 </details>
 
