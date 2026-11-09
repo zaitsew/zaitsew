@@ -84,6 +84,7 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - Only the owner activates a taste entry; agents read TASTE.md
 - Screen registry: one file per screen, layout contract per size class
 - teyla ux atlas: every screen from code, captured against expected, feature map
+- Ten content formats picked by note tag, one call to action each
 
 </details>
 
