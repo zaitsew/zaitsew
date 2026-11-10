@@ -82,6 +82,12 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - teyla productize fails shared products without test-build feedback
 - teyla taste add: likes and dislikes as evidence with screenshots, styles, copy
 - Only the owner activates a taste entry; agents read TASTE.md
+- iPhone Share extension: send a link or picture as taste
+- teyla ux judge --filter: another provider screens design variants
+- teyla brief: per-session budget enforced when agents start subagents
+- teyla spend --session: one session by model and by day
+- TestFlight crashes and screenshot feedback pulled hourly, opt-in
+- teyla platform check: pre-push gate for primary-platform-first work
 - Screen registry: one file per screen, layout contract per size class
 - teyla ux atlas: every screen from code, captured against expected, feature map
 - Ten content formats picked by note tag, one call to action each
