@@ -88,6 +88,8 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - teyla spend --session: one session by model and by day
 - TestFlight crashes and screenshot feedback pulled hourly, opt-in
 - teyla platform check: pre-push gate for primary-platform-first work
+- teyla design: a redesign as a decision map, one owner card at a time
+- Usage capture in test builds: allow-listed events, no content; teyla usage
 - Screen registry: one file per screen, layout contract per size class
 - teyla ux atlas: every screen from code, captured against expected, feature map
 - Ten content formats picked by note tag, one call to action each
