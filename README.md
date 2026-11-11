@@ -62,6 +62,7 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - ⌘K runs core features
 - teyla attention: what needs you across machine, products and routines
 - Lists agent questions waiting on you, grouped by product
+- Telegram card: one tap answers an open question, from the Mac
 - Portfolio: health per product with reasons, status per platform
 - Home scoreboard: products ranked by users and commits, week, month, year
 - Per-product monetization switch, off by default, with MRR and paying users
