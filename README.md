@@ -8,7 +8,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 [X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
-> **3** you can use today · **12** open source · **8** in the workshop
+> **3** you can use today · **13** open source · **8** in the workshop
 
 ## Use them today
 
@@ -147,6 +147,24 @@ Compares Spanish bank offers by goal, with AI search, open data and an MCP serve
 - Bank app ranking from store ratings, freshness and payment features
 - Offer cards render inside ChatGPT and Claude (MCP App widget)
 - Privacy, terms, support and connect pages
+
+</details>
+
+### [Casa No Pasa](https://github.com/zaitsew/casa-no-pasa)
+
+Helps Barcelona renters answer new flat listings first, with a ready reply and a tenant file.
+
+<sub>Telegram, web · building</sub>
+
+<details><summary>What it does today</summary>
+
+- Telegram bot reads shared links, ad text and screenshots
+- Card per flat: fit score, scam and seasonal-contract flags
+- Reply drafts in Spanish, Catalan or English; the renter sends
+- Barcelona rent-cap note with official index links
+- Tenant dossier: encrypted documents behind an expiring link
+- Endpoint for forwarded portal alert emails
+- Invite-only access; /delete removes everything
 
 </details>
 
