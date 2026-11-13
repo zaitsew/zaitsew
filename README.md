@@ -97,6 +97,25 @@ Operating layer for one person running many AI-built products on one Mac: questi
 
 </details>
 
+### [Casa No Pasa](https://github.com/zaitsew/casa-no-pasa)
+
+Helps Barcelona renters answer new flat listings first, with a ready reply and a tenant file.
+
+<sub>Telegram, web · beta</sub>
+
+<details><summary>What it does today</summary>
+
+- Telegram bot reads shared links, ad text and screenshots
+- Card per flat: fit score, scam and seasonal-contract flags
+- Reply drafts in Spanish, Catalan or English; the renter sends
+- Barcelona rent-cap note with official index links
+- Tenant dossier: encrypted documents behind an expiring link
+- Forwarded Idealista/Fotocasa alert emails become cards, one per flat
+- Example card first; profile questions only after a real card
+- Invite-only access; /delete removes everything
+
+</details>
+
 ### [Speedyt](https://github.com/zaitsew/speedyt)
 
 Ad-free, open-source internet speed test for Android TV and Google TV, driven by the remote.
@@ -149,24 +168,6 @@ Compares Spanish bank offers by goal, with AI search, open data and an MCP serve
 - Offer cards render inside ChatGPT and Claude (MCP App widget)
 - Connector listed in the Claude directory
 - Privacy, terms, support and connect pages
-
-</details>
-
-### [Casa No Pasa](https://github.com/zaitsew/casa-no-pasa)
-
-Helps Barcelona renters answer new flat listings first, with a ready reply and a tenant file.
-
-<sub>Telegram, web · building</sub>
-
-<details><summary>What it does today</summary>
-
-- Telegram bot reads shared links, ad text and screenshots
-- Card per flat: fit score, scam and seasonal-contract flags
-- Reply drafts in Spanish, Catalan or English; the renter sends
-- Barcelona rent-cap note with official index links
-- Tenant dossier: encrypted documents behind an expiring link
-- Endpoint for forwarded portal alert emails
-- Invite-only access; /delete removes everything
 
 </details>
 
