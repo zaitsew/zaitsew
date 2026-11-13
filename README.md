@@ -15,7 +15,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 <table>
   <tr>
     <td width="80"><a href="https://apps.apple.com/app/id6809226188?ct=github-profile&mt=8"><img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/loco.png" width="64" height="64" alt="Loco icon"></a></td>
-    <td><a href="https://apps.apple.com/app/id6809226188?ct=github-profile&mt=8"><b>Loco</b></a> — Shared trip plan: flights, stays, bookings and who is where, for the whole group.<br><a href="https://apps.apple.com/app/id6809226188?ct=github-profile&mt=8">App Store</a> (iPhone, iPad, Mac) · <a href="https://play.google.com/store/apps/details?id=com.fabriquefutur.loco&referrer=utm_source%3Dgithub%26utm_medium%3Dprofile">Google Play</a> (Android) · <a href="https://loco.fabriquefutur.com">Web</a> (any browser)</td>
+    <td><a href="https://apps.apple.com/app/id6809226188?ct=github-profile&mt=8"><b>Loco</b></a> — Shared plan for your day and trips: flights, stays, to-dos and who is where, for the whole group.<br><a href="https://apps.apple.com/app/id6809226188?ct=github-profile&mt=8">App Store</a> (iPhone, iPad, Mac) · <a href="https://play.google.com/store/apps/details?id=com.fabriquefutur.loco&referrer=utm_source%3Dgithub%26utm_medium%3Dprofile">Google Play</a> (Android) · <a href="https://loco.fabriquefutur.com">Web</a> (any browser)</td>
   </tr>
   <tr>
     <td width="80"><a href="https://apps.apple.com/app/id6808361269?ct=github-profile&mt=8"><img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/wine-cave.png" width="64" height="64" alt="Wine Cave icon"></a></td>
@@ -117,7 +117,7 @@ Ad-free, open-source internet speed test for Android TV and Google TV, driven by
 
 ### [Baika](https://github.com/zaitsew/baika)
 
-An iPhone storyteller: a story in any style, narrated with an expressive voice, then talked over live.
+An iPhone storyteller: a story in any style, narrated with an expressive voice and kept in your library.
 
 <sub>iOS · building</sub>
 
@@ -126,8 +126,9 @@ An iPhone storyteller: a story in any style, narrated with an expressive voice, 
 - Perform: a story on any topic in a chosen author's style
 - Narration with expressive ElevenLabs voices, OpenAI backup voice
 - Eight style presets plus your own style; ru, en, es
-- Talk: live voice conversation with mute, barge-in and icon controls
+- Talk: live voice chat with mute and end buttons; untested on device
 - Library of stories, replayed offline, shared as text or audio
+- Shortcuts: tell a story, replay the last, continue it
 
 </details>
 
@@ -144,8 +145,9 @@ Compares Spanish bank offers by goal, with AI search, open data and an MCP serve
 - Goal leaderboards, offer pages and side-by-side compare
 - Open dataset: one dated, sourced YAML file per offer
 - JSON API, OpenAPI, llms.txt and a remote MCP server
-- Bank app ranking from store ratings, freshness and payment features
+- Ranks 24 Spanish bank apps by ratings, freshness and payment features
 - Offer cards render inside ChatGPT and Claude (MCP App widget)
+- Connector listed in the Claude directory
 - Privacy, terms, support and connect pages
 
 </details>
@@ -291,11 +293,12 @@ A personal feed of offline events in your city and the cities you travel to, ran
 
 <details><summary>What it does today</summary>
 
-- MCP server: agents collect, rank and explain events for you
+- Twelve MCP tools: agents collect, rank and explain events for you
 - Daily model-free ingest from Meetup, Eventbrite, Songkick and others
 - Reads Loco trips, so travel cities get their own feed
 - Web feed PWA: save, going, hide, and rate after
 - Nightly Claude Code or Codex run from a launchd job
+- Claude Code plugin installs the skill and MCP server together
 - Profile of likes, avoids, price cap and languages
 
 </details>
@@ -317,6 +320,7 @@ AI-native focus app: one number a day, the productive share of your screen time,
 - iPhone and Mac desktop widgets show the day across devices
 - Adaptive daily limit that walks down to 30 minutes
 - Screen Time counting and "Work or scroll?" shields on iPhone
+- Mac guard pauses or blocks up to three places you name
 - Forest-style focus sessions that shield distracting apps
 - Siri and Shortcuts, plus a read-only local MCP server
 - Mac reminder to do a desk exercise after 90 minutes non-stop
