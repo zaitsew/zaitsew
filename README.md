@@ -319,6 +319,9 @@ Film and video picks that work like zapping TV channels, outside your platform's
 - Every third pick comes from outside your usual genres and countries
 - Imports Letterboxd export and Netflix viewing history as taste and seen
 - Evening log compares Serendip with Netflix and live TV
+- YouTube Detour channel: daily videos from fields outside your watch history
+- Takeout import shows which topics your YouTube history is stuck in
+- Optional private YouTube playlist of the daily Detour picks
 
 </details>
 
