@@ -8,7 +8,7 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 [X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
-> **3** you can use today · **13** open source · **8** in the workshop
+> **3** you can use today · **14** open source · **8** in the workshop
 
 ## Use them today
 
@@ -303,6 +303,22 @@ A personal feed of offline events in your city and the cities you travel to, ran
 - Nightly Claude Code or Codex run from a launchd job
 - Claude Code plugin installs the skill and MCP server together
 - Profile of likes, avoids, price cap and languages
+
+</details>
+
+### [Serendip](https://github.com/zaitsew/serendip)
+
+Film and video picks that work like zapping TV channels, outside your platform's recommendation loop.
+
+<sub>web · building</sub>
+
+<details><summary>What it does today</summary>
+
+- TV-browser channel view: one film per screen, remote zaps films
+- Picks only films streaming tonight on your Spanish services
+- Every third pick comes from outside your usual genres and countries
+- Imports Letterboxd export and Netflix viewing history as taste and seen
+- Evening log compares Serendip with Netflix and live TV
 
 </details>
 
