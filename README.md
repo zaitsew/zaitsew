@@ -165,6 +165,8 @@ Compares Spanish bank offers by goal, with AI search, open data and an MCP serve
 - Open dataset: one dated, sourced YAML file per offer
 - JSON API, OpenAPI, llms.txt and a remote MCP server
 - Ranks 24 Spanish bank apps by ratings, freshness and payment features
+- Market context: ECB rate, €STR, BdE deposit average, Letra, CPI
+- Deposit-guarantee scheme and cover shown for every issuer
 - Offer cards render inside ChatGPT and Claude (MCP App widget)
 - Connector listed in the Claude directory
 - Privacy, terms, support and connect pages
