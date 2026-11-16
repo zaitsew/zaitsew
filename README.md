@@ -48,6 +48,7 @@ Operating layer for one person running many AI-built products on one Mac: questi
 - Decisions: Pay, Decide, Do, with undoable closes on Mac and iPhone
 - Mac admin: Growth, Money, Operations, Playbook, Settings, per-product pages
 - Operations: machine health, failures, schedules, harnesses, AGENTS.md sync
+- teyla sessions tidy: archives Claude and Codex sessions that wait on nothing
 - Money: cash per month kept apart from API list price
 - Playbook: guidelines, model ladder, golden quotes, chores to hand off
 - teyla growth: daily drafts per network from real work, approval first
