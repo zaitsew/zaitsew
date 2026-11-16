@@ -323,6 +323,8 @@ Film and video picks that work like zapping TV channels, outside your platform's
 - YouTube Detour channel: daily videos from fields outside your watch history
 - Takeout import shows which topics your YouTube history is stuck in
 - Optional private YouTube playlist of the daily Detour picks
+- Live at serendip.fabriquefutur.com, owner-key sign-in, bookmark on the TV
+- MCP server: agents ask what's on tonight and log evenings
 
 </details>
 
