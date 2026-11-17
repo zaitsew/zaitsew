@@ -8,364 +8,45 @@ I design and ship AI-native products for iPhone, Mac, Android and the web from V
 
 [X](https://x.com/ceozaitsev) · [LinkedIn](https://www.linkedin.com/in/zaitsew) · [Fabrique Futur](https://www.fafutur.com) · [Studio on GitHub](https://github.com/Fabrique-Futur)
 
-> **3** you can use today · **14** open source · **8** in the workshop
-
-## Use them today
-
-<table>
-  <tr>
-    <td width="80"><a href="https://apps.apple.com/app/id6809226188?ct=github-profile&mt=8"><img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/loco.png" width="64" height="64" alt="Loco icon"></a></td>
-    <td><a href="https://apps.apple.com/app/id6809226188?ct=github-profile&mt=8"><b>Loco</b></a> — Shared plan for your day and trips: flights, stays, to-dos and who is where, for the whole group.<br><a href="https://apps.apple.com/app/id6809226188?ct=github-profile&mt=8">App Store</a> (iPhone, iPad, Mac) · <a href="https://play.google.com/store/apps/details?id=com.fabriquefutur.loco&referrer=utm_source%3Dgithub%26utm_medium%3Dprofile">Google Play</a> (Android) · <a href="https://loco.fabriquefutur.com">Web</a> (any browser)</td>
-  </tr>
-  <tr>
-    <td width="80"><a href="https://apps.apple.com/app/id6808361269?ct=github-profile&mt=8"><img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/wine-cave.png" width="64" height="64" alt="Wine Cave icon"></a></td>
-    <td><a href="https://apps.apple.com/app/id6808361269?ct=github-profile&mt=8"><b>Wine Cave</b></a> — A sommelier for your own cellar: tracks bottles, learns taste from verdicts, picks tonight's wine.<br><a href="https://apps.apple.com/app/id6808361269?ct=github-profile&mt=8">App Store</a> (iPhone, iPad, Mac) · <a href="https://play.google.com/store/apps/details?id=com.fabriquefutur.winecave&referrer=utm_source%3Dgithub%26utm_medium%3Dprofile">Google Play</a> (Android)</td>
-  </tr>
-  <tr>
-    <td width="80"><a href="https://guiri.fabriquefutur.com"><img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/guiri.png" width="64" height="64" alt="Guiri icon"></a></td>
-    <td><a href="https://guiri.fabriquefutur.com"><b>Guiri</b></a> — Turns Spanish you meet into phrases you can say tomorrow, then drills them until they stick.<br><a href="https://guiri.fabriquefutur.com">Web</a> (any browser)</td>
-  </tr>
-</table>
-
-## Open source
-
-### [Teyla](https://github.com/zaitsew/teyla)
-
-Operating layer for one person running many AI-built products on one Mac: questions, policy, cost, builds.
-
-<sub>macOS, iOS · live</sub>
-
-<details><summary>What it does today</summary>
-
-- teyla start: diagnoses 30 days of agent spend, offers seven undoable fixes
-- Ten packs to pick at setup; only ticked ones turn on
-- Doctor names the pack for a problem: load, disk, cost
-- Agent install: paste the repo URL into Claude Code or Codex
-- Public site at teyla.dev: landing, privacy and support pages
-- teyla web: local dashboard for diagnosis, today, products, notes, spend
-- Mac app: first-run diagnosis, product pages, ⌥Space quick note
-- Home on Mac and iPhone: core products and their progress
-- Decisions: Pay, Decide, Do, with undoable closes on Mac and iPhone
-- Mac admin: Growth, Money, Operations, Playbook, Settings, per-product pages
-- Operations: machine health, failures, schedules, harnesses, AGENTS.md sync
-- teyla sessions tidy: archives Claude and Codex sessions that wait on nothing
-- Money: cash per month kept apart from API list price
-- Playbook: guidelines, model ladder, golden quotes, chores to hand off
-- teyla growth: daily drafts per network from real work, approval first
-- teyla gtm: today's queue, sends and outcomes against weekly goals
-- Today: goals as circles filled by outcomes, drafts tagged per goal
-- Publishes approved posts to LinkedIn, Threads, Instagram, YouTube via APIs
-- Engage list: 20 posts a day worth a reply, with angles
-- teyla startup: stage ladder and next missing fact per product
-- YC sheet: 15 boxes with evidence, answers stay on the Mac
-- Editor pass and story miner hold back posts with no proof
-- Daily vertical video from a lesson or a real session
-- ⌘K runs core features
-- teyla attention: what needs you across machine, products and routines
-- Lists agent questions waiting on you, grouped by product
-- Telegram card: one tap answers an open question, from the Mac
-- Portfolio: health per product with reasons, status per platform
-- Home scoreboard: products ranked by users and commits, week, month, year
-- Per-product monetization switch, off by default, with MRR and paying users
-- iPhone and Mac App Store companions via a signed iCloud folder
-- Product registry maps repos to products; park and wake
-- Text notes linked to a product: teyla note, teyla notes
-- Keeps long prompts in per-product intent files outside repos
-- Syncs one policy file into Claude Code, Codex, Grok, Hermes, Cursor
-- Reports agent cost by subagent type and model
-- Machine guard refuses builds and simulators while overloaded
-- teyla storage apps: quits listed idle apps when memory is tight
-- Checks whether newest TestFlight and Play builds reached testers
-- Reports whether scheduled routines ran, from teyla.toml
-- Reports reply length and filler phrases per project
-- Claude Code plugin ready for Claude and OpenAI directories, no-CLI fallback
-- teyla mcp: local MCP server for asks, answers, intent, load
-- Test-build feedback on iOS, Mac, web, Android reaches one inbox
-- teyla productize fails shared products without test-build feedback
-- teyla taste add: likes and dislikes as evidence with screenshots, styles, copy
-- Only the owner activates a taste entry; agents read TASTE.md
-- iPhone Share extension: send a link or picture as taste
-- teyla ux judge --filter: another provider screens design variants
-- teyla brief: per-session budget enforced when agents start subagents
-- teyla spend --session: one session by model and by day
-- TestFlight crashes and screenshot feedback pulled hourly, opt-in
-- teyla platform check: pre-push gate for primary-platform-first work
-- teyla design: a redesign as a decision map, one owner card at a time
-- Usage capture in test builds: allow-listed events, no content; teyla usage
-- Screen registry: one file per screen, layout contract per size class
-- teyla ux atlas: every screen from code, captured against expected, feature map
-- Ten content formats picked by note tag, one call to action each
-
-</details>
-
-### [Casa No Pasa](https://github.com/zaitsew/casa-no-pasa)
-
-Helps Barcelona renters answer new flat listings first, with a ready reply and a tenant file.
-
-<sub>Telegram, web · beta</sub>
-
-<details><summary>What it does today</summary>
-
-- Telegram bot reads shared links, ad text and screenshots
-- Card per flat: fit score, scam and seasonal-contract flags
-- Reply drafts in Spanish, Catalan or English; the renter sends
-- Barcelona rent-cap note with official index links
-- Tenant dossier: encrypted documents behind an expiring link
-- Forwarded Idealista/Fotocasa alert emails become cards, one per flat
-- Example card first; profile questions only after a real card
-- Invite-only access; /delete removes everything
-
-</details>
-
-### [Speedyt](https://github.com/zaitsew/speedyt)
-
-Ad-free, open-source internet speed test for Android TV and Google TV, driven by the remote.
-
-<sub>Android TV · beta</sub>
-
-<details><summary>What it does today</summary>
-
-- Download, upload, ping and jitter against Cloudflare's network
-- Latency under load with a bufferbloat grade A to D
-- What the line handles: 4K and 1080p streams, HD calls, gaming
-- Ethernet or Wi-Fi band, signal, receive and send link rates
-- Tips when the TV is the bottleneck, e.g. 100 Mbps Ethernet
-- Last 50 results kept on the TV
-- English, Spanish and Russian; no ads, account or telemetry
-
-</details>
-
-### [Baika](https://github.com/zaitsew/baika)
-
-An iPhone storyteller: a story in any style, narrated with an expressive voice and kept in your library.
-
-<sub>iOS · building</sub>
-
-<details><summary>What it does today</summary>
-
-- Perform: a story on any topic in a chosen author's style
-- Narration with expressive ElevenLabs voices, OpenAI backup voice
-- Eight style presets plus your own style; ru, en, es
-- Talk: live voice chat with mute and end buttons; untested on device
-- Library of stories, replayed offline, shared as text or audio
-- Shortcuts: tell a story, replay the last, continue it
-
-</details>
-
-### [BankJar](https://github.com/zaitsew/bankjar)
-
-Compares Spanish bank offers by goal, with AI search, open data and an MCP server.
-
-<sub>web · building</sub>
-
-<details><summary>What it does today</summary>
-
-- Plain-words search returns a ranked offer comparison table
-- One scale: first-year net value and value per commitment month
-- Goal leaderboards, offer pages and side-by-side compare
-- Open dataset: one dated, sourced YAML file per offer
-- JSON API, OpenAPI, llms.txt and a remote MCP server
-- Ranks 24 Spanish bank apps by ratings, freshness and payment features
-- Market context: ECB rate, €STR, BdE deposit average, Letra, CPI
-- Deposit-guarantee scheme and cover shown for every issuer
-- Offer cards render inside ChatGPT and Claude (MCP App widget)
-- Connector listed in the Claude directory
-- Privacy, terms, support and connect pages
-
-</details>
-
-### [CasaVPN](https://github.com/zaitsew/casavpn)
-
-Installer and tooling for a home VLESS + Reality VPN on a Raspberry Pi, with backups, monitoring and an iPhone app.
-
-<sub>Linux (Raspberry Pi), iOS · building</sub>
-
-<details><summary>What it does today</summary>
-
-- install.sh with --dry-run; installs VLESS + Reality behind nftables
-- casavpn-ddns reconciles the Cloudflare DNS record every minute
-- Nightly age-encrypted backup and a restore drill script
-- casavpn-upgrade backs up, pins 3x-ui, and rolls back
-- casavpn-os-upgrade: monthly full-upgrade, reboot window, post-boot check
-- casavpn-healthcheck verifies every layer on the host
-- Cloudflare Worker monitor and alert relay with APNs push
-- casavpn-alerts: certificate, client quota, Xray, backup, disk and reboot alerts
-- iPhone app signs in like the panel and keeps only its own token
-- App manages inbounds (Reality), clients, Xray restart and logs
-- App shares client links and subscriptions as text or QR
-- App alert history, push, and an offline demo mode
-- casavpn-pair prints a QR code that pairs the app
-- Offline tests and a personal-data scanner in check.sh
-
-</details>
-
-### [Dremo](https://github.com/zaitsew/dremo)
-
-Calm ambient screens and clocks for Google TV and Android TV, with no ads or account.
-
-<sub>Android TV · building</sub>
-
-<details><summary>What it does today</summary>
-
-- Four clock faces: digital, flip, analog and word clock
-- Six animated scenes, from rain and fireplace to aurora and lava lamp
-- Optional city weather on the clocks, from Open-Meteo, no location permission
-- Night dimming on a schedule, and pixel shift
-- Screensaver service for Android TV versions that offer a picker
-- English, Spanish and Russian; no ads, account or telemetry
-
-</details>
-
-### [Filmare](https://github.com/zaitsew/filmare)
-
-Turns Claude Code and Codex sessions into short videos, refusing any clip where private data remains.
-
-<sub>macOS · building</sub>
-
-<details><summary>What it does today</summary>
-
-- Renders Claude Code and Codex logs as vertical, landscape or square clips
-- Masks secrets, names and private files before anything is rendered
-- Refuses export when text, layout or OCR of the video finds private data
-- Burns a session-replay label with the date into every clip
-- Picks beats and captions by rule; manual cuts also work
-- Writes a contact sheet for review; uses no AI or API credits
-
-</details>
-
-### [Finance K](https://github.com/zaitsew/finance-k)
-
-Tracks your accounts and month-end balances across banks, crypto and cash, locally on your Mac.
-
-<sub>web · building</sub>
-
-<details><summary>What it does today</summary>
-
-- Account registry with institution, purpose, fees and status
-- Close-the-month screen with last balances prefilled, cash per currency
-- Net worth in EUR with change split into flows, market, FX
-- ECB, Bank of Russia and CoinGecko rates, cached locally
-- Dormant, new and closed accounts listed each month
-- Idle bank cash links to BankJar savings offers
-- JSON export and import; data never leaves the Mac
-- Local read-only MCP server and Claude plugin; Codex install
-
-</details>
-
-### [Qupa](https://github.com/zaitsew/qupa)
-
-Party quiz for Google TV where phones are the buzzers, with no app install or account.
-
-<sub>Android TV · building</sub>
-
-<details><summary>What it does today</summary>
-
-- Phones join by QR code and play in the browser
-- The TV serves the game on the home network, protected by a room code
-- Two to four teams can play on the remote alone
-- 5,272 English questions from Open Trivia DB
-- Interface in English, Spanish and Russian; no ads or telemetry
-
-</details>
-
-### [Rumbo](https://github.com/zaitsew/rumbo)
-
-Plans trips from scratch and gives a personal travel feed, for people and AI agents over MCP.
-
-<sub>web · building</sub>
-
-<details><summary>What it does today</summary>
-
-- Plan a trip from one sentence in English, Spanish or Russian
-- Destination shortlist priced with live Kiwi fares
-- Ranked travel feed with reasons and like/dislike feedback
-- Price watches on routes, stays and activities
-- MCP server with 13 tools for Claude, Codex and ChatGPT
-- Claude Code plugin: skill and MCP connection in one install
-- Owner-only OAuth sign-in for connectors that cannot send a key
-- Daily scheduled agent runs that post sourced offers
-- Deep links to Google Flights, Booking, Airbnb and 18 airlines
-- Loco history import and export of a chosen plan to Loco
-
-</details>
-
-### [SAWk](https://github.com/zaitsew/sawk)
-
-A personal feed of offline events in your city and the cities you travel to, ranked by your AI agents.
-
-<sub>web, MCP · building</sub>
-
-<details><summary>What it does today</summary>
-
-- Twelve MCP tools: agents collect, rank and explain events for you
-- Daily model-free ingest from Meetup, Eventbrite, Songkick and others
-- Reads Loco trips, so travel cities get their own feed
-- Web feed PWA: save, going, hide, and rate after
-- Nightly Claude Code or Codex run from a launchd job
-- Claude Code plugin installs the skill and MCP server together
-- Profile of likes, avoids, price cap and languages
-
-</details>
-
-### [Serendip](https://github.com/zaitsew/serendip)
-
-Film and video picks that work like zapping TV channels, outside your platform's recommendation loop.
-
-<sub>web · building</sub>
-
-<details><summary>What it does today</summary>
-
-- TV-browser channel view: one film per screen, remote zaps films
-- Picks only films streaming tonight on your Spanish services
-- Every third pick comes from outside your usual genres and countries
-- Imports Letterboxd export and Netflix viewing history as taste and seen
-- Evening log compares Serendip with Netflix and live TV
-- YouTube Detour channel: daily videos from fields outside your watch history
-- Takeout import shows which topics your YouTube history is stuck in
-- Optional private YouTube playlist of the daily Detour picks
-- Live at serendip.fabriquefutur.com, owner-key sign-in, bookmark on the TV
-- MCP server: agents ask what's on tonight and log evenings
-
-</details>
-
-### [Vago](https://github.com/zaitsew/vago)
-
-AI-native focus app: one number a day, the productive share of your screen time, across iPhone and Mac.
-
-<sub>iOS, macOS · building</sub>
-
-<details><summary>What it does today</summary>
-
-- Productive share as the main metric: 100% minus procrastination
-- Menu-bar share with mood emoji and green-yellow-red tint
-- Hour-by-hour day strip with Mac and iPhone lanes
-- Mac Day window: top work, top waste and Vago's calls
-- On-device AI decides work or waste; one tap corrects it
-- Learns rules from its own confident calls, holds itself when overruled
-- iPhone and Mac desktop widgets show the day across devices
-- Adaptive daily limit that walks down to 30 minutes
-- Screen Time counting and "Work or scroll?" shields on iPhone
-- Mac guard pauses or blocks up to three places you name
-- Forest-style focus sessions that shield distracting apps
-- Siri and Shortcuts, plus a read-only local MCP server
-- Mac reminder to do a desk exercise after 90 minutes non-stop
-
-</details>
-
-## In the workshop
-
-In TestFlight or still being built. Want early access? Message me on [X](https://x.com/ceozaitsev).
-
-| | | On | What it is |
-|---|---|---|---|
-|  | **Afterglow** | iOS | Long-exposure camera for iPhone with Silk, Trails and Freeze effects. |
-| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/finca.png" width="32" height="32" alt="Finca icon"> | **Finca** | iOS, macOS | A barista for your own coffee: tracks bean bags, freshness, brews and taste. |
-| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/iron-u.png" width="32" height="32" alt="Iron U icon"> | **Iron U** | iOS, macOS, Android, web, Garmin | Closed-loop Ironman 70.3 coach: writes the plan, pushes it to the watch, reads results, adapts. |
-| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/lumi.png" width="32" height="32" alt="Lumi icon"> | **Lumi** | iOS, macOS | AI shot director for iPhone: plans the outing, checks each take, cuts the film from footage. |
-| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/orbita.png" width="32" height="32" alt="Orbita icon"> | **Orbita** | iOS, macOS | Your network as four rings: who is going cold, birthdays, promises, and what you owe each person. |
-| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/petit-chef.png" width="32" height="32" alt="Petit Chef icon"> | **Petit Chef** | iOS | Runs a recipe like a workout, and Lonja guides fish and seafood from counter to plate. |
-|  | **Awind** | iOS | An iPhone home for a Garmin watch, in place of the Garmin Connect and Connect IQ apps. |
-|  | **Beyond Intelligence** | web | Weekly, monthly and yearly brief and dashboard on AI and startups. |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/activity-dark.svg">
+  <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/activity-light.svg" alt="Contributions per day over the last year, coloured by range: 0, 1-50, 51-100, 101-150, 151-200, 201-300, 301-400, 401-500, 501+" width="100%">
+</picture>
+
+> **26** products · **5** live · **8** beta · **13** building · **14** open source
+
+## Products
+
+Everything I am shipping or building, live first. Beta builds are in TestFlight; want early access? Message me on [X](https://x.com/ceozaitsev).
+
+| | Product | What it is | On | Status |
+|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/guiri.png" width="32" height="32" alt="Guiri icon"> | [**Guiri**](https://guiri.fabriquefutur.com)<br><sub>[Web](https://guiri.fabriquefutur.com)</sub> | Turns Spanish you meet into phrases you can say tomorrow, then drills them until they stick. | web, iOS, macOS | Live |
+|  | [**Inadviser**](https://inadviser.com)<br><sub>[Web](https://inadviser.com)</sub> | Public at inadviser.com: 11 value-for-money boards and 5 benchmark guides with sourced prices, a published method and honest verdicts. | web | Live |
+| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/loco.png" width="32" height="32" alt="Loco icon"> | [**Loco**](https://apps.apple.com/app/id6809226188?ct=github-profile&mt=8)<br><sub>[App Store](https://apps.apple.com/app/id6809226188?ct=github-profile&mt=8) · [Google Play](https://play.google.com/store/apps/details?id=com.fabriquefutur.loco&referrer=utm_source%3Dgithub%26utm_medium%3Dprofile) · [Web](https://loco.fabriquefutur.com)</sub> | Shared plan for your day and trips: flights, stays, to-dos and who is where, for the whole group. | iOS, macOS, Android, web | Live |
+|  | [**Teyla**](https://teyla.dev)<br><sub>[Web](https://teyla.dev) · [Source](https://github.com/zaitsew/teyla)</sub> | Operating layer for one person running many AI-built products on one Mac: questions, policy, cost, builds. | macOS, iOS | Live |
+| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/wine-cave.png" width="32" height="32" alt="Wine Cave icon"> | [**Wine Cave**](https://apps.apple.com/app/id6808361269?ct=github-profile&mt=8)<br><sub>[App Store](https://apps.apple.com/app/id6808361269?ct=github-profile&mt=8) · [Google Play](https://play.google.com/store/apps/details?id=com.fabriquefutur.winecave&referrer=utm_source%3Dgithub%26utm_medium%3Dprofile)</sub> | A sommelier for your own cellar: tracks bottles, learns taste from verdicts, picks tonight's wine. | iOS, macOS, Android | Live |
+|  | **Afterglow** | Long-exposure camera for iPhone with Silk, Trails and Freeze effects. | iOS | Beta |
+|  | [**Casa No Pasa**](https://github.com/zaitsew/casa-no-pasa)<br><sub>[Source](https://github.com/zaitsew/casa-no-pasa)</sub> | Helps Barcelona renters answer new flat listings first, with a ready reply and a tenant file. | Telegram, web | Beta |
+| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/finca.png" width="32" height="32" alt="Finca icon"> | **Finca** | A barista for your own coffee: tracks bean bags, freshness, brews and taste. | iOS, macOS | Beta |
+| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/iron-u.png" width="32" height="32" alt="Iron U icon"> | **Iron U** | Closed-loop Ironman 70.3 coach: writes the plan, pushes it to the watch, reads results, adapts. | iOS, macOS, Android, web, Garmin | Beta |
+| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/lumi.png" width="32" height="32" alt="Lumi icon"> | **Lumi** | AI shot director for iPhone: plans the outing, checks each take, cuts the film from footage. | iOS, macOS | Beta |
+| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/orbita.png" width="32" height="32" alt="Orbita icon"> | **Orbita** | Your network as four rings: who is going cold, birthdays, promises, and what you owe each person. | iOS, macOS | Beta |
+| <img src="https://raw.githubusercontent.com/zaitsew/zaitsew/main/assets/petit-chef.png" width="32" height="32" alt="Petit Chef icon"> | **Petit Chef** | Runs a recipe like a workout, and Lonja guides fish and seafood from counter to plate. | iOS | Beta |
+|  | [**Speedyt**](https://github.com/zaitsew/speedyt)<br><sub>[Source](https://github.com/zaitsew/speedyt)</sub> | Ad-free, open-source internet speed test for Android TV and Google TV, driven by the remote. | Android TV | Beta |
+|  | **Awind** | An iPhone home for a Garmin watch, in place of the Garmin Connect and Connect IQ apps. | iOS | Building |
+|  | [**Baika**](https://github.com/zaitsew/baika)<br><sub>[Source](https://github.com/zaitsew/baika)</sub> | An iPhone storyteller: a story in any style, narrated with an expressive voice and kept in your library. | iOS | Building |
+|  | [**BankJar**](https://github.com/zaitsew/bankjar)<br><sub>[Source](https://github.com/zaitsew/bankjar)</sub> | Compares Spanish bank offers by goal, with AI search, open data and an MCP server. | web | Building |
+|  | **Beyond Intelligence** | Weekly, monthly and yearly brief and dashboard on AI and startups. | web | Building |
+|  | [**CasaVPN**](https://github.com/zaitsew/casavpn)<br><sub>[Source](https://github.com/zaitsew/casavpn)</sub> | Installer and tooling for a home VLESS + Reality VPN on a Raspberry Pi, with backups, monitoring and an iPhone app. | Linux (Raspberry Pi), iOS | Building |
+|  | [**Dremo**](https://github.com/zaitsew/dremo)<br><sub>[Source](https://github.com/zaitsew/dremo)</sub> | Calm ambient screens and clocks for Google TV and Android TV, with no ads or account. | Android TV | Building |
+|  | [**Filmare**](https://github.com/zaitsew/filmare)<br><sub>[Source](https://github.com/zaitsew/filmare)</sub> | Turns Claude Code and Codex sessions into short videos, refusing any clip where private data remains. | macOS | Building |
+|  | [**Finance K**](https://github.com/zaitsew/finance-k)<br><sub>[Source](https://github.com/zaitsew/finance-k)</sub> | Tracks your accounts and month-end balances across banks, crypto and cash, locally on your Mac. | web | Building |
+|  | [**Qupa**](https://github.com/zaitsew/qupa)<br><sub>[Source](https://github.com/zaitsew/qupa)</sub> | Party quiz for Google TV where phones are the buzzers, with no app install or account. | Android TV | Building |
+|  | [**Rumbo**](https://github.com/zaitsew/rumbo)<br><sub>[Source](https://github.com/zaitsew/rumbo)</sub> | Plans trips from scratch and gives a personal travel feed, for people and AI agents over MCP. | web | Building |
+|  | [**SAWk**](https://github.com/zaitsew/sawk)<br><sub>[Source](https://github.com/zaitsew/sawk)</sub> | A personal feed of offline events in your city and the cities you travel to, ranked by your AI agents. | web, MCP | Building |
+|  | [**Serendip**](https://github.com/zaitsew/serendip)<br><sub>[Source](https://github.com/zaitsew/serendip)</sub> | Film and video picks that work like zapping TV channels, outside your platform's recommendation loop. | web | Building |
+|  | [**Vago**](https://github.com/zaitsew/vago)<br><sub>[Source](https://github.com/zaitsew/vago)</sub> | AI-native focus app: one number a day, the productive share of your screen time, across iPhone and Mac. | iOS, macOS | Building |
 
 ## How I build
 
