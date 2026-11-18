@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150" role="img" aria-label="How I build">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text',Inter,'Segoe UI',Helvetica,Arial,sans-serif;fill:#14161D}.m{fill:#585E6D}.cap{font-size:11px;letter-spacing:.06em}.b{font-weight:600}</style>
+<rect x="0.5" y="0.5" width="879" height="149" rx="12" fill="#FFFFFF" stroke="#DCDEE5"/>
+<text class="m cap" x="28" y="34">HOW I BUILD</text>
+<rect x="28.0" y="48" width="197.0" height="84" rx="10" fill="#F4F5F8"/>
+<text class="b" x="42.0" y="72" font-size="13">Agents write</text>
+<text class="b" x="42.0" y="94" font-size="15" style="fill:#3A4AA8">15,485 commits since Aug</text>
+<text class="m" x="42.0" y="112" font-size="11">Claude plans and reviews.</text>
+<text class="m" x="42.0" y="126" font-size="11">Cheaper models write the code.</text>
+<rect x="237.0" y="48" width="197.0" height="84" rx="10" fill="#F4F5F8"/>
+<text class="b" x="251.0" y="72" font-size="13">A second model reviews</text>
+<text class="b" x="251.0" y="94" font-size="15" style="fill:#3A4AA8">2 providers</text>
+<text class="m" x="251.0" y="112" font-size="11">Another provider checks the</text>
+<text class="m" x="251.0" y="126" font-size="11">code before it merges.</text>
+<rect x="446.0" y="48" width="197.0" height="84" rx="10" fill="#F4F5F8"/>
+<text class="b" x="460.0" y="72" font-size="13">The laptop is the CI</text>
+<text class="b" x="460.0" y="94" font-size="15" style="fill:#3A4AA8">1 gate per repo</text>
+<text class="m" x="460.0" y="112" font-size="11">check.sh runs before every</text>
+<text class="m" x="460.0" y="126" font-size="11">push.</text>
+<rect x="655.0" y="48" width="197.0" height="84" rx="10" fill="#F4F5F8"/>
+<text class="b" x="669.0" y="72" font-size="13">One policy</text>
+<text class="b" x="669.0" y="94" font-size="15" style="fill:#3A4AA8">46 repos · 26 products</text>
+<text class="m" x="669.0" y="112" font-size="11">Teyla keeps the rules, asks</text>
+<text class="m" x="669.0" y="126" font-size="11">and costs.</text>
+</svg>
