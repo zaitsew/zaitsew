@@ -1,24 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="550" viewBox="0 0 880 550" role="img" aria-label="20,042 contributions since 1 Aug 2026">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="550" viewBox="0 0 880 550" role="img" aria-label="20,459 contributions since 1 Aug 2026">
 <style>text{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text',Inter,'Segoe UI',Helvetica,Arial,sans-serif;fill:#14161D}.m{fill:#585E6D}.cap{font-size:11px;letter-spacing:.06em}.b{font-weight:600}</style>
 <rect x="0.5" y="0.5" width="879" height="549" rx="12" fill="#FFFFFF" stroke="#DCDEE5"/>
 <text class="m cap" x="28" y="40">SINCE 1 AUG 2026</text>
-<text class="b" x="28" y="88" font-size="46">20,042</text>
+<text class="b" x="28" y="88" font-size="46">20,459</text>
 <text class="m" x="198" y="88" font-size="17">contributions in 112 days</text>
 <rect x="720.8" y="24" width="131.2" height="26" rx="13" fill="#A65400" fill-opacity=".16"/>
 <circle cx="733.8" cy="37" r="4" fill="#A65400"/>
-<text x="743.8" y="41.5" font-size="12" fill="#A65400" class="b">97 days in a row</text>
+<text x="743.8" y="41.5" font-size="12" fill="#A65400" class="b">98 days in a row</text>
 <rect x="28.0" y="118" width="197.0" height="68" rx="10" fill="#F4F5F8"/>
-<text class="b" x="44.0" y="152" font-size="24">179</text>
+<text class="b" x="44.0" y="152" font-size="24">183</text>
 <text class="m" x="44.0" y="172" font-size="12">a day, on average</text>
 <rect x="237.0" y="118" width="197.0" height="68" rx="10" fill="#F4F5F8"/>
 <text class="b" x="253.0" y="152" font-size="24">622</text>
 <text class="m" x="253.0" y="172" font-size="12">best day, 4 Oct</text>
 <rect x="446.0" y="118" width="197.0" height="68" rx="10" fill="#F4F5F8"/>
-<text class="b" x="462.0" y="152" font-size="24">48</text>
+<text class="b" x="462.0" y="152" font-size="24">49</text>
 <text class="m" x="462.0" y="172" font-size="12">days over 200</text>
 <rect x="655.0" y="118" width="197.0" height="68" rx="10" fill="#F4F5F8"/>
-<text class="b" x="671.0" y="152" font-size="24">15,669</text>
-<text class="m" x="671.0" y="172" font-size="12">commits · 4,333 pull requests</text>
+<text class="b" x="671.0" y="152" font-size="24">15,980</text>
+<text class="m" x="671.0" y="172" font-size="12">commits · 4,439 pull requests</text>
 <line x1="64" x2="852" y1="410.6" y2="410.6" stroke="#DCDEE5" stroke-dasharray="2 4"/>
 <text class="m" x="56" y="414.6" font-size="11" text-anchor="end">100</text>
 <line x1="64" x2="852" y1="379.1" y2="379.1" stroke="#DCDEE5" stroke-dasharray="2 4"/>
@@ -148,8 +148,8 @@
 <rect x="823.9" y="386.1" width="5.0" height="55.9" rx="2.0" fill="#5F6FCB"><title>178 on 2026-11-17</title></rect>
 <rect x="830.9" y="386.4" width="5.0" height="55.6" rx="2.0" fill="#5F6FCB"><title>177 on 2026-11-18</title></rect>
 <rect x="837.9" y="388.6" width="5.0" height="53.4" rx="2.0" fill="#5F6FCB"><title>170 on 2026-11-19</title></rect>
-<rect x="845.0" y="440.5" width="5.0" height="1.5" rx="2.0" fill="#ECEEF3"><title>0 on 2026-11-20</title></rect>
-<path d="M66.5,442.0 L73.6,442.0 L80.6,442.0 L87.6,442.0 L94.7,442.0 L101.7,442.0 L108.7,439.8 L115.8,438.3 L122.8,438.3 L129.8,435.9 L136.9,434.2 L143.9,433.5 L150.9,432.6 L158.0,434.8 L165.0,436.0 L172.1,435.8 L179.1,437.7 L186.1,434.7 L193.2,434.8 L200.2,435.7 L207.2,435.5 L214.3,434.4 L221.3,433.8 L228.3,431.3 L235.4,432.2 L242.4,429.9 L249.4,428.4 L256.5,427.9 L263.5,427.8 L270.6,426.5 L277.6,421.9 L284.6,420.0 L291.7,418.4 L298.7,410.9 L305.7,401.8 L312.8,396.4 L319.8,390.5 L326.8,387.4 L333.9,380.9 L340.9,374.7 L347.9,375.2 L355.0,375.8 L362.0,372.6 L369.1,369.2 L376.1,377.1 L383.1,381.3 L390.2,390.2 L397.2,396.5 L404.2,399.0 L411.3,406.9 L418.3,407.2 L425.3,400.4 L432.4,401.2 L439.4,400.3 L446.4,392.1 L453.5,394.6 L460.5,381.7 L467.6,380.3 L474.6,388.1 L481.6,389.7 L488.7,383.6 L495.7,370.7 L502.7,351.4 L509.8,352.7 L516.8,337.3 L523.8,332.8 L530.9,322.8 L537.9,322.7 L544.9,329.6 L552.0,333.4 L559.0,329.8 L566.1,332.2 L573.1,327.1 L580.1,329.4 L587.2,329.2 L594.2,339.9 L601.2,333.8 L608.3,343.1 L615.3,362.2 L622.3,364.7 L629.4,369.6 L636.4,369.3 L643.4,365.7 L650.5,377.5 L657.5,379.2 L664.6,373.2 L671.6,371.3 L678.6,369.4 L685.7,369.8 L692.7,363.2 L699.7,367.2 L706.8,351.9 L713.8,356.9 L720.8,354.5 L727.9,355.3 L734.9,344.8 L741.9,350.6 L749.0,350.4 L756.0,358.1 L763.1,356.5 L770.1,360.0 L777.1,357.8 L784.2,370.3 L791.2,369.5 L798.2,360.8 L805.3,364.4 L812.3,366.6 L819.3,363.6 L826.4,367.2 L833.4,366.4 L840.4,369.6 L847.5,388.4" fill="none" stroke="#14161D" stroke-width="1.6" stroke-opacity=".7"/>
+<rect x="845.0" y="310.9" width="5.0" height="131.1" rx="2.0" fill="#D9831C"><title>417 on 2026-11-20</title></rect>
+<path d="M66.5,442.0 L73.6,442.0 L80.6,442.0 L87.6,442.0 L94.7,442.0 L101.7,442.0 L108.7,439.8 L115.8,438.3 L122.8,438.3 L129.8,435.9 L136.9,434.2 L143.9,433.5 L150.9,432.6 L158.0,434.8 L165.0,436.0 L172.1,435.8 L179.1,437.7 L186.1,434.7 L193.2,434.8 L200.2,435.7 L207.2,435.5 L214.3,434.4 L221.3,433.8 L228.3,431.3 L235.4,432.2 L242.4,429.9 L249.4,428.4 L256.5,427.9 L263.5,427.8 L270.6,426.5 L277.6,421.9 L284.6,420.0 L291.7,418.4 L298.7,410.9 L305.7,401.8 L312.8,396.4 L319.8,390.5 L326.8,387.4 L333.9,380.9 L340.9,374.7 L347.9,375.2 L355.0,375.8 L362.0,372.6 L369.1,369.2 L376.1,377.1 L383.1,381.3 L390.2,390.2 L397.2,396.5 L404.2,399.0 L411.3,406.9 L418.3,407.2 L425.3,400.4 L432.4,401.2 L439.4,400.3 L446.4,392.1 L453.5,394.6 L460.5,381.7 L467.6,380.3 L474.6,388.1 L481.6,389.7 L488.7,383.6 L495.7,370.7 L502.7,351.4 L509.8,352.7 L516.8,337.3 L523.8,332.8 L530.9,322.8 L537.9,322.7 L544.9,329.6 L552.0,333.4 L559.0,329.8 L566.1,332.2 L573.1,327.1 L580.1,329.4 L587.2,329.2 L594.2,339.9 L601.2,333.8 L608.3,343.1 L615.3,362.2 L622.3,364.7 L629.4,369.6 L636.4,369.3 L643.4,365.7 L650.5,377.5 L657.5,379.2 L664.6,373.2 L671.6,371.3 L678.6,369.4 L685.7,369.8 L692.7,363.2 L699.7,367.2 L706.8,351.9 L713.8,356.9 L720.8,354.5 L727.9,355.3 L734.9,344.8 L741.9,350.6 L749.0,350.4 L756.0,358.1 L763.1,356.5 L770.1,360.0 L777.1,357.8 L784.2,370.3 L791.2,369.5 L798.2,360.8 L805.3,364.4 L812.3,366.6 L819.3,363.6 L826.4,367.2 L833.4,366.4 L840.4,369.6 L847.5,369.7" fill="none" stroke="#14161D" stroke-width="1.6" stroke-opacity=".7"/>
 <text x="516.8" y="238.5" font-size="11" text-anchor="middle" class="b" style="fill:#A65400">622 · 4 Oct</text>
 <text class="m" x="852" y="212" font-size="11" text-anchor="end">line: 7-day average</text>
 <text class="m" x="28.0" y="514" font-size="11">a day</text>
