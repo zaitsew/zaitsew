@@ -64,3 +64,16 @@ Everything I am shipping or building, live first. Beta builds are in TestFlight;
 The rules, open questions and costs for all of it live in [Teyla](https://github.com/zaitsew/teyla), which is open source.
 
 <sub>Generated from my tools catalog, so it lists what ships today, not what is planned.</sub>
+
+<details>
+<summary>Five cells, one glider</summary>
+
+```
+. # .
+. . #
+# # #
+```
+
+In Conway's Game of Life (1970) this shape walks across the grid forever. It is the hacker emblem.
+
+</details>
