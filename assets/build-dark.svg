@@ -4,7 +4,7 @@
 <text class="m cap" x="28" y="34">HOW I BUILD</text>
 <rect x="28.0" y="48" width="197.0" height="84" rx="10" fill="#1D2029"/>
 <text class="b" x="42.0" y="72" font-size="13">Agents write</text>
-<text class="b" x="42.0" y="94" font-size="15" style="fill:#9AA7F2">16,539 commits since Aug</text>
+<text class="b" x="42.0" y="94" font-size="15" style="fill:#9AA7F2">16,733 commits since Aug</text>
 <text class="m" x="42.0" y="112" font-size="11">Claude plans and reviews.</text>
 <text class="m" x="42.0" y="126" font-size="11">Cheaper models write the code.</text>
 <rect x="237.0" y="48" width="197.0" height="84" rx="10" fill="#1D2029"/>
