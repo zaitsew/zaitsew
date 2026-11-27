@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="661" viewBox="0 0 880 661" role="img" aria-label="22,006 contributions since 1 Aug 2026">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="661" viewBox="0 0 880 661" role="img" aria-label="22,041 contributions since 1 Aug 2026">
 <style>text{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text',Inter,'Segoe UI',Helvetica,Arial,sans-serif;fill:#14161D}.m{fill:#585E6D}.cap{font-size:11px;letter-spacing:.06em}.b{font-weight:600}</style>
 <rect x="0.5" y="0.5" width="879" height="660" rx="12" fill="#FFFFFF" stroke="#DCDEE5"/>
 <text class="m cap" x="28" y="40">SINCE 1 AUG 2026</text>
-<text class="b" x="28" y="88" font-size="46">22,006</text>
-<text class="m" x="198" y="88" font-size="17">contributions in 118 days</text>
+<text class="b" x="28" y="88" font-size="46">22,041</text>
+<text class="m" x="198" y="88" font-size="17">contributions in 119 days</text>
 <rect x="713.6" y="24" width="138.4" height="26" rx="13" fill="#A65400" fill-opacity=".16"/>
 <circle cx="726.6" cy="37" r="4" fill="#A65400"/>
-<text x="736.6" y="41.5" font-size="12" fill="#A65400" class="b">104 days in a row</text>
+<text x="736.6" y="41.5" font-size="12" fill="#A65400" class="b">105 days in a row</text>
 <rect x="28.0" y="118" width="197.0" height="68" rx="10" fill="#F4F5F8"/>
-<text class="b" x="44.0" y="152" font-size="24">186</text>
+<text class="b" x="44.0" y="152" font-size="24">185</text>
 <text class="m" x="44.0" y="172" font-size="12">a day, on average</text>
 <rect x="237.0" y="118" width="197.0" height="68" rx="10" fill="#F4F5F8"/>
 <text class="b" x="253.0" y="152" font-size="24">622</text>
@@ -17,8 +17,8 @@
 <text class="b" x="462.0" y="152" font-size="24">52</text>
 <text class="m" x="462.0" y="172" font-size="12">days over 200</text>
 <rect x="655.0" y="118" width="197.0" height="68" rx="10" fill="#F4F5F8"/>
-<text class="b" x="671.0" y="152" font-size="24">17,176</text>
-<text class="m" x="671.0" y="172" font-size="12">commits · 4,790 pull requests</text>
+<text class="b" x="671.0" y="152" font-size="24">17,205</text>
+<text class="m" x="671.0" y="172" font-size="12">commits · 4,796 pull requests</text>
 <text class="m" x="28" y="280" font-size="11">Mon</text>
 <text class="m" x="28" y="366" font-size="11">Wed</text>
 <text class="m" x="28" y="452" font-size="11">Fri</text>
@@ -224,8 +224,9 @@
 <text x="813.5" y="322.5" font-size="11" text-anchor="middle" class="b" fill="#FFFFFF" style="fill:#FFFFFF">175</text>
 <rect x="795" y="343" width="37" height="37" rx="7" fill="#5F6FCB"><title>169 on 2026-11-25</title></rect>
 <text x="813.5" y="365.5" font-size="11" text-anchor="middle" class="b" fill="#FFFFFF" style="fill:#FFFFFF">169</text>
-<rect x="795" y="386" width="37" height="37" rx="7" fill="#F0B45E"><title>378 on 2026-11-26</title></rect>
-<text x="813.5" y="408.5" font-size="11" text-anchor="middle" class="b" fill="#14161D" style="fill:#14161D">378</text>
+<rect x="795" y="386" width="37" height="37" rx="7" fill="#F0B45E"><title>386 on 2026-11-26</title></rect>
+<text x="813.5" y="408.5" font-size="11" text-anchor="middle" class="b" fill="#14161D" style="fill:#14161D">386</text>
+<rect x="795" y="429" width="37" height="37" rx="7" fill="#DDE1F6"><title>27 on 2026-11-27</title></rect>
 <rect x="64" y="585.0" width="37" height="2.0" rx="4" fill="#3A4AA8" fill-opacity="0.55"><title>0 in the week of 2026-07-26</title></rect>
 <rect x="107" y="585.0" width="37" height="2.0" rx="4" fill="#3A4AA8" fill-opacity="0.55"><title>83 in the week of 2026-08-02</title></rect>
 <rect x="150" y="584.1" width="37" height="2.9" rx="4" fill="#3A4AA8" fill-opacity="0.55"><title>133 in the week of 2026-08-09</title></rect>
@@ -244,7 +245,7 @@
 <rect x="666" y="546.7" width="37" height="40.3" rx="4" fill="#3A4AA8" fill-opacity="0.55"><title>1,868 in the week of 2026-11-01</title></rect>
 <rect x="709" y="549.5" width="37" height="37.5" rx="4" fill="#3A4AA8" fill-opacity="0.55"><title>1,734 in the week of 2026-11-08</title></rect>
 <rect x="752" y="548.2" width="37" height="38.8" rx="4" fill="#3A4AA8" fill-opacity="0.55"><title>1,794 in the week of 2026-11-15</title></rect>
-<rect x="795" y="562.7" width="37" height="24.3" rx="4" fill="#3A4AA8" fill-opacity="0.55"><title>1,125 in the week of 2026-11-22</title></rect>
+<rect x="795" y="561.9" width="37" height="25.1" rx="4" fill="#3A4AA8" fill-opacity="0.55"><title>1,160 in the week of 2026-11-22</title></rect>
 <text class="m" x="28" y="585" font-size="11">week</text>
 <text class="m" x="28.0" y="625" font-size="11">a day</text>
 <rect x="68.0" y="615" width="12" height="12" rx="3" fill="#ECEEF3"/>
@@ -265,5 +266,5 @@
 <text class="m" x="551.6" y="625" font-size="11">401–500</text>
 <rect x="610.4" y="615" width="12" height="12" rx="3" fill="#A65400"/>
 <text class="m" x="627.4" y="625" font-size="11">501+</text>
-<text class="m" x="852" y="643" font-size="11" text-anchor="end">GitHub contributions · updated 26 Nov 2026</text>
+<text class="m" x="852" y="643" font-size="11" text-anchor="end">GitHub contributions · updated 27 Nov 2026</text>
 </svg>
