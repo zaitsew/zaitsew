@@ -66,14 +66,13 @@ The rules, open questions and costs for all of it live in [Teyla](https://github
 <sub>Generated from my tools catalog, so it lists what ships today, not what is planned.</sub>
 
 <details>
-<summary>Five cells, one glider</summary>
+<summary>🐾</summary>
 
-```
-. # .
-. . #
-# # #
+```text
+ ·  ·  ●          ·  ·  ●          ·  ·  ●
+       ●                 ●                 ●
 ```
 
-In Conway's Game of Life (1970) this shape walks across the grid forever. It is the hacker emblem.
+*Zayats* is Russian for hare, and the surname comes from it. A hare's hind feet land ahead of its front feet, so its tracks seem to point the wrong way. These lead into the public repos. Each one hides a hare where its README ends: in the dark, under a dot, behind a fold, or in the source.
 
 </details>
